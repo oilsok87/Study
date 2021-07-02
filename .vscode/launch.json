@@ -21,7 +21,7 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
-            "mainClass": "Hello_world.Main",
+            "mainClass": "Hello_world.Main", //this is important to Run
             "projectName": "Study_54effa83"
         }
     ]
